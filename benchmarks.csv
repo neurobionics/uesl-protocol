@@ -1,0 +1,15 @@
+device,company_or_reference,category,activity,uesl_dba,sd_dba,n_trials
+No device,N/A,baseline,level-ground walking,35.5,2.3,72
+VSO - off,Van Crey et al. 2024,passive,level-ground walking,37.4,3.0,72
+MBLUE ankle exoskeleton,Walters et al. 2026,powered,level-ground walking,37.6,2.7,72
+Kinnex 2.0,Proteor,quasi-passive,level-ground walking,38.2,3.4,54
+AllPro,Fillauer,passive,level-ground walking,38.6,2.6,18
+Genium X4,Ottobock,quasi-passive,level-ground walking,40.1,2.0,18
+Nylon pants,N/A,baseline,level-ground walking,41.5,2.8,72
+Empower,Ottobock,powered,level-ground walking,43.6,2.3,18
+VSO - on,Van Crey et al. 2024,quasi-passive,level-ground walking,43.9,1.7,72
+DESR VSO,Van Crey et al. 2024,passive,level-ground walking,44.0,3.0,72
+Sidekick,Dephy,powered,level-ground walking,44.6,3.4,72
+Open-Source Leg v2 - ankle,Best et al. 2024,powered,level-ground walking,47.7,4.4,54
+Power Knee,Ossur,powered,level-ground walking,49.5,2.6,36
+Open-Source Leg v2 - knee + ankle,Best et al. 2024,powered,level-ground walking,50.6,2.2,18

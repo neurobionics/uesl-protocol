@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use the UESL protocol or benchmark data, please cite it as below."
+title: "UESL: User-Experienced Sound Level measurement protocol for wearable robots"
+version: "1.0.0"
+date-released: "2026-10-01"
+type: dataset
+authors:
+  - family-names: Bons
+    given-names: Zachary
+    affiliation: "University of Michigan"
+  - family-names: Thiede
+    given-names: Shane
+    affiliation: "HEAD acoustics, Inc."
+  - family-names: Rouse
+    given-names: Elliott J.
+    affiliation: "University of Michigan"
+keywords:
+  - wearable robotics
+  - prosthesis
+  - exoskeleton
+  - acoustics
+  - audible noise
+  - sound level

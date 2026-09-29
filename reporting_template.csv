@@ -1,0 +1,2 @@
+device,device_version_or_settings,activity,instrument,instrument_settings,n_subjects,subject_mass_kg_mean_sd,subject_height_m_mean_sd,n_trials,uesl_dba,sd_dba,ambient_dba_mean,ambient_correction_applied,room_and_floor,deviations_from_protocol,reference_or_contact
+EXAMPLE DEVICE,firmware v1.2; default gains,level-ground walking,SLM (Class 2),A-weighted; FAST; 10 Hz,3,82.0 +/- 10.5,1.78 +/- 0.08,27,42.3,2.4,31.5,no,carpeted lab; foam mat,none,you@institution.edu
