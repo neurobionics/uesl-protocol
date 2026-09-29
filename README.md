@@ -2,7 +2,7 @@
 
 **A standard, low-cost protocol for measuring and reporting the audible noise of wearable robots (prostheses, exoskeletons, orthoses).**
 
-Users care about how loud their devices are, but every group measures sound differently, so published numbers can't be compared. UESL is the A-weighted equivalent continuous sound level (*L*<sub>eq,A</sub>) measured **at the user's ear, during real use**. You need a Class 2 sound level meter, a quiet room, and 9 trials.
+Users care about how loud their devices are, but there have been many different approaches to measuring sound, so published numbers can't be compared directly. UESL is the A-weighted equivalent continuous sound level (*L*<sub>eq,A</sub>) measured **at the user's ear, during real use**. You need a Class 2 sound level meter, a quiet room, and 9 trials.
 
 📋 **[Read the full protocol checklist →](PROTOCOL.md)**  ·  🖨️ **[Printable PDF](UESL_Checklist.pdf)**
 
