@@ -15,12 +15,6 @@ Users care about how loud their devices are, but there have been many different 
 5. **Energy-average** each trial to *L*<sub>eq</sub>; subtract ambient if within 6 dB.
 6. **Report** mean ± SD over all trials & users, n trials, user mass/height, and device settings.
 
-[`uesl.py`](uesl.py) implements steps 5–6 (no dependencies):
-
-```bash
-python uesl.py trials.csv   # CSV columns: device, L_active, L_ambient (one row per trial)
-```
-
 ## Benchmark data (level-ground walking)
 
 | Device | Category | UESL (dBA) | SD (dBA) | Trials |
